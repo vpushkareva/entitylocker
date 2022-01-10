@@ -1,1 +1,1 @@
-# A homework for Replika.
+# A http web service for TTL cache.
